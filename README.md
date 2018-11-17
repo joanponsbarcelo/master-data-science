@@ -1,15 +1,3 @@
 # master-data-science
 
-Una línea
-
-Dos líneas
-
-Aquí es donde hemos cambiado el fichero en la web (cambio en local)
-
-Voy a intentar que se solapen (cambio en la web)
-
-Tres líneas
-
-Cuatro líneas
-
-Seis líneas
+Este respositorio incluirá los ejercicios de la 13 edición del Máster en DataScience de Kschool de Joan Pons Barceló
