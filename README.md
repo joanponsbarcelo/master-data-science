@@ -1,3 +1,7 @@
 # master-data-science
 
-Este respositorio incluirá los ejercicios de la 13 edición del Máster en DataScience de Kschool de Joan Pons Barceló
+This repository will include the exercices of the Master of DataScience
+
+by Joan Pons Barceló
+
+
